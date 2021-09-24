@@ -1,0 +1,4 @@
+{
+    "main": "cqbot.py",
+    "requirementsFile": "requirements.txt"
+}
